@@ -39,7 +39,7 @@ The Excel report includes multiple visuals that cover different angles of the bu
 - Average Customer Spending  
 
 **Dashboard Screenshot**  
-<img src="dashboard.jpg" alt="Dashboard Page" width="800">
+<img src="dashboard.jpg" alt="Dashboard Page" width="900">
 
 ---
 
